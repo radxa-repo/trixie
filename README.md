@@ -1,6 +1,7 @@
 # trixie
 
 [![Update packages](https://github.com/radxa-repo/trixie/actions/workflows/update.yaml/badge.svg)](https://github.com/radxa-repo/trixie/actions/workflows/update.yaml)
+[![Publish packages](https://github.com/radxa-repo/trixie/actions/workflows/build.yaml/badge.svg)](https://github.com/radxa-repo/trixie/actions/workflows/build.yaml)
 
 ## Content
 
